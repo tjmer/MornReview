@@ -1,0 +1,34 @@
+﻿1.What is a build, release and deploy?
+* Build making the code
+* Release build that has passed all tests
+* Deploy has gone live to users
+        
+
+
+2.What are code dependencies?
+        A dependency in programming is an essential functionality, library or piece of code that’s essential for a different part of the code to work. For example, a specific library that a given line of code depends on.
+
+
+        Name 10:
+1. Operating system
+2. Languages
+3. Github commit
+4. Libraries
+5. Passing tests
+6. API’s
+7. React components
+8. CI/CD
+9. Software
+10. Trello
+
+
+3.What is DevOps philosophy and the principles of DevOps?
+        DevOps, or Developer Operations, is the idea that writing and enabling the “running” of code in multiple environments should go hand in hand.
+
+
+4.What is CI/CD?
+        Continuous integration and continuous delivery/continuous deployment
+
+
+        What is CircleCI?
+* Automatically tests code before deployment
